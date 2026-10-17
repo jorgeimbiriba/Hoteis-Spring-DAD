@@ -5,6 +5,7 @@ import java.math.BigDecimal;
  * Representa o modelo de dados de um Hotel.
  * Contém atributos privados, construtores e métodos de acesso (getters e setters).
  */
+
 public class Hotel {
     private Long id;
     private String nome;
