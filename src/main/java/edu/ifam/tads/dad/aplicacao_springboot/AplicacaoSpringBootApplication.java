@@ -1,13 +1,13 @@
-package br.edu.ifam.turismo.hotel_service;
+package edu.ifam.tads.dad.aplicacao_springboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HotelServiceApplication {
+public class AplicacaoSpringBootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HotelServiceApplication.class, args);
+		SpringApplication.run(AplicacaoSpringBootApplication.class, args);
 	}
 
 }
